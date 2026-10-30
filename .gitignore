@@ -1,0 +1,13 @@
+# virtual environment
+venv/
+
+# python cahce
+_pycache_/
+*.pyc
+
+# file kofigurasi rahasia
+.env
+
+# file sistem
+.vscode/
+Thumbs.db
